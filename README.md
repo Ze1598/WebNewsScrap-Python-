@@ -1,5 +1,5 @@
 # WebNewsScrap-Python-
-Articles, posts, features, news, ..., I scrape from various websites using Python (and BeautifulSoup)
+Articles, posts, features, news, ..., Python scripts to scrape articles, posts and results from various sources (using BeautifulSoup and Requests)
 
 These can be used to create .txt files with multiple articles from a particular website, but my primary intention was to \
 use these for my Twitter Bot
