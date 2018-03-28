@@ -6,7 +6,9 @@ use these for my Twitter Bot
 
 Update log:
 
--(feb. 18th 2018): Added google_queries/googlequeries.py, a script that scrapes the first 10 results (the first page) of a google text query (1-word queries)
+-(feb. 18th 2018) Added google_queries/googlequeries.py, a script that scrapes the first 10 results (the first page) of a google text query (1-word queries)
+
+-(mar. 28th 2018) Added a flickr scraper to scrape the ULRs for the results of a query. The script is in portuguese because I wrote it for a class
 
 
 External references:
